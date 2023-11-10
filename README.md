@@ -4,12 +4,11 @@ TraitTally is a Command Line Interface (CLI) based personality test that explore
 
 ## Live Demo
 
-Try TraitTally now on REPL.it: [TraitTally Live Demo](https://replit.com/@prabhanjansahu5/personality-test?embed=1&output=1)
+Try TraitTally now on REPL.it: [![TraitTally Live Demo]](https://replit.com/@prabhanjansahu5/personality-test?embed=1&output=1)
 
 ## Screenshots
 
 ![Project Screenshot](./project_screenshot.png)
-*Description of the first screenshot.*
 
 ## Features
 
